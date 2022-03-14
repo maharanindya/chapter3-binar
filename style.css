@@ -1,0 +1,68 @@
+* {
+    max-width: 1440px;
+
+}
+
+.navbar-brand {
+    padding-left: 50px;
+}
+
+
+.awal {
+    width: 100%;
+    background-color:#F1F3FF;
+}
+.awal {
+    max-width: 1440px;
+}
+.awal #text {
+    padding-left: 5%; padding-top: 8%;
+}
+
+
+/* why us */
+.whyUs {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#thumbs {
+    height: 15rem;
+    border-radius: 5%;
+}
+
+#tags {
+    height: 15rem;
+    border-radius: 5%;
+}
+
+#clock {
+    height: 15rem;
+    border-radius: 5%;
+}
+
+#medal {
+    height: 15rem;
+    border-radius: 5%;
+    /* font-family: Helvetica; */
+}
+
+.wrapper {
+    /* font-family: Helvetica; */
+    background-color: #F1F3FF;
+    height: 250px;
+    border-radius: 5%;
+}
+
+#kobir {
+    height: 326px;
+    background-color: #0D28A6;
+    border-radius: 20px;
+    padding-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.sosmed {
+    font-size: 25px;
+    color: blue;
+}
